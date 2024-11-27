@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+<!-- <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
+<h3 align="center">A passionate Backend developer from Egypt</h3> -->
+<div>
+    <p align="center"><a href="https://github.com/omar498"><img width="80%" alt="Hello, I'm Omar Mohamed. A passionate Backend developer from Egypt" src="./assets/gh-readme-header.png" /></a></p>
+    <div align=center>
+        <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
+    </div>
 
 
 - 🔭 I’m currently working on [Dala-Hala](https://github.com/omar498/Dala-Hala)
