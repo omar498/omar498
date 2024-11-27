@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
-<h3 align="center">A passionate Backend developer from Egypt</h3>
+
 <div>
     <p align="center">
     <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
