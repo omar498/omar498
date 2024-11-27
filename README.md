@@ -15,13 +15,13 @@
 - :rocket: Always ready to collaborate for Dev Experiments
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 📫 My Email **omarelgharbawy201@gmail.com**
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
 <br>
     <div align=center>
         <a href="https://www.linkedin.com/in/omar-elgharbawy-866b80249/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
-        - 📫 My Email **omarelgharbawy201@gmail.com**
        </a>
     </div>
     <div align=left>
