@@ -18,5 +18,10 @@
 
 <h2 align="left">:heart: Let's get connected:</h2>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](www.linkedin.com/in/omar-elgharbawy-866b80249) 
-
+<br>
+    <div align=center>
+        <a href="www.linkedin.com/in/omar-elgharbawy-866b80249"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="omarelgharbawy201@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
+    </div>
+    <div align=left>
+        <br>
