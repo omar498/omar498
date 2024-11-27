@@ -1,4 +1,3 @@
-
 <div>
     <p align="center">
     <h1 align="center">Hi 👋, I'm Omar Mohamed</h1>
@@ -7,12 +6,19 @@
         <img src="https://raw.githubusercontent.com/engsahaly/engsahaly/main/code.gif" alt="GitHub Octocat Drinking a Cup of Coffee" height="400">
     </div>
 
-
 - 🔭 I’m currently working on [Dala-Hala](https://github.com/omar498/Dala-Hala)
 
 - 🌱 I’m currently learning **Laravel**
 
-- 📫 How to reach me **omarelgharbawy201@gmail.com**
+<br>
+    <div align=center>
+        <a href="www.linkedin.com/in/omar-elgharbawy-866b80249"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+        <a href="omarelgharbawy201@gmail.com"><img src="https://img.shields.io/badge/Email-My%20Email%20Address-orange" alt="My Email Account" /></a>
+    </div>
+    <div align=left>
+        <br>
+
+<!-- - 📫 How to reach me **omarelgharbawy201@gmail.com** -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
